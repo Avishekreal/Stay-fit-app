@@ -3,7 +3,7 @@
 **STAY-FIT** is a mobile application developed on **flutter**.
 
 <h2>Disclaimer</h2>
-<p>Install the app from <a href="https://drive.google.com/drive/folders/1set7N8C4f0nkp-YmVaCyqKnPzHccoExB?usp=sharing"> here</a><br>
+<p>Install the app from <a href="https://drive.google.com/file/d/1n4W-TOBfGHj8wHWBhxe9VWCy6YvK7CSN/view?usp=drivesdk"> here</a><br>
   <b>First allow all permission from the settings and then launch the app</b>
 </p>
 
